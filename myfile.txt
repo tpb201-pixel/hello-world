@@ -1,0 +1,2 @@
+This is a file in which I have created, and the whole purpose of this file is to create a file in this folder to undersatdna how it works, I am attepting to learn how it should work and how it is going to be used within github
+
